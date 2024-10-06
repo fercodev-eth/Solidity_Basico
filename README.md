@@ -10,3 +10,4 @@ Este es un cambio desde *Github* **en su version web**
 * Esto se puede hacer desde el IDE de Remix
 * Esto se puede hacer en local desde una terminal
 * Esto se puede hacer desde Visual Studio Code
+* Este es un cambio para validar la sincronixacion con **REMIX**
